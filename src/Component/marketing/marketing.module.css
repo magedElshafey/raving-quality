@@ -1,0 +1,24 @@
+    .mainContainer {
+        background-color: #d0d0d0;
+    }
+
+    .box {
+        width: 25px;
+        height: 25px;
+        background-color: var(--mainColor);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white !important;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+
+    .mainImg {
+        width: 300px;
+        height: 300px;
+
+    }
